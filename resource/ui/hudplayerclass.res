@@ -1,0 +1,2 @@
+#base "../../resource/ui/alternatives/ClassModel_On.res" // Class model at the bottom left 
+//#base "../../resource/ui/alternatives/ClassModel_Off.res" // No class model at the bottom left (can potentially save frames)
